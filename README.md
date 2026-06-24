@@ -1,4 +1,5 @@
 Hi there, I'm a Solana & Anchor Rust Engineer 🦀⚓
+
 I build high-performance, secure on-chain programs and optimized decentralized architecture for the Solana Virtual Machine (SVM). 
 I specialize in writing secure custom Program Derived
 Addresses (PDAs), handling complex account serialization, and optimizing compute units for
