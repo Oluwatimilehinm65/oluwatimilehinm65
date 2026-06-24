@@ -6,20 +6,15 @@ production-grade decentralized applications (dApps).
 
 ️ Technical Skill Matrix & Competencies
 Category Technologies & Frameworks
+
 Languages: Rust (Systems, Async & Concurrency), TypeScript, JavaScript, HTML/CSS
 
-On-Chain Frameworks Anchor Framework, Solana Native (Sealevel),
+On-Chain Frameworks: Anchor Framework, Solana Native (Sealevel), Solana CLI
 
-Solana CLI
+Off-Chain SDKs: Solana Web3.js (@solana/web3.js), Anchor TS Client, SPL Token SDK
 
-Off-Chain SDKs Solana Web3.js (@solana/web3.js), Anchor TS
-
-Client, SPL Token SDK
-
-E-Commerce & Ecosystem Shopify Partner Development, Custom Shopify
-App Integrations (Liquid / Online Store 2.0)
-DevOps & Architecture Git/GitHub, Linux Environments, Docker, Cargo
-Tooling, Solana Validator Local Test suites
+E-Commerce & Ecosystem: Shopify Partner Development, Custom Shopify App Integrations (Liquid / Online Store 2.0)
+DevOps & Architecture: Git/GitHub, Linux Environments, Docker, Cargo Tooling, Solana Validator Local Test suites
 ️ Production Architecture & Proof-of-Work (Featured
 Repositories)
 ● 🚀 solana-escrow-secure
@@ -34,7 +29,6 @@ An optimized multi-tier staking platform running mathematically
 sound yield distributions while maintaining ultra-low compute
 unit expenditure.
 ○ Tech Stack: Rust, Anchor Framework, SPL-Token Extensions
-
 ○ Key Features: Dynamic reward formulas using scalable state structs, minimal
 storage footprint to reduce rent exemption costs.
 
