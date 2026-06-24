@@ -51,7 +51,7 @@ organizing zero-copy state serialization when memory constraints demand it.
 3. Test Driven Development: Every smart contract comes standard with full local
 integration test suites simulating malicious client execution.
 
-📥 Work With Me (Open for Short-Term Milestones)
+📥 Work With Me (Open for Short-Term Milestones):
 I am actively available for short-term contract milestones, smart contract feature
 implementation, code optimizations, and integrations. If you are a founder trying to clear an
 urgent backend bottleneck or deploy a secure dApp component swiftly, let’s collaborate.
