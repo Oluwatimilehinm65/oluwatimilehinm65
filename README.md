@@ -18,14 +18,14 @@ E-Commerce & Ecosystem: Shopify Partner Development, Custom Shopify App Integrat
 DevOps & Architecture: Git/GitHub, Linux Environments, Docker, Cargo Tooling, Solana Validator Local Test suites
 ️ Production Architecture & Proof-of-Work (Featured
 Repositories)
-● 🚀 solana-escrow-secure
+● 🚀 solana-escrow-secure:
 A secure, trustless vault mechanism handling SPL token
 exchanges using rigorous Anchor account constraint validations.
 ○ Tech Stack: Rust, Anchor, TypeScript (for local tests)
 ○ Key Features: Prevents re-entrancy, ensures strict signer verification, implements
 safe arithmetic to negate math overflows.
 
-● 💰 anchor-tier-staking
+● 💰 anchor-tier-staking:
 An optimized multi-tier staking platform running mathematically
 sound yield distributions while maintaining ultra-low compute
 unit expenditure.
@@ -33,7 +33,7 @@ unit expenditure.
 ○ Key Features: Dynamic reward formulas using scalable state structs, minimal
 storage footprint to reduce rent exemption costs.
 
-● 🔄 svm-amm-lightweight
+● 🔄 svm-amm-lightweight:
 A lightweight constant-product Automated Market Maker (AMM)
 custom built for the SVM environment displaying advanced
 account routing.
@@ -41,7 +41,7 @@ account routing.
 ○ Key Features: Atomic swap execution, Cross-Program Invocations (CPI) to token
 programs, rigorous integration testing scripts.
 
-🔒 The Safe Execution Guarantee
+🔒 The Safe Execution Guarantee:
 In Web3, unoptimized or insecure code destroys protocols. When I write Anchor programs, I
 strictly design around production-ready guardrails:
 1. Explicit Constraint Checks: Enforcing strict has_one, seeds, bump, and mut macros to
